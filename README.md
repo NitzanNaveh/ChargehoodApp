@@ -124,7 +124,7 @@ This project follows MVVM (Model-View-ViewModel) principles with NavGraph for na
 ## 📜 License
 MIT License
 
-Copyright © 2025 Ofek Amirav.
+Copyright © 2025 Ofek Amirav, Nitzan Naveh and Bar Kobi.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
